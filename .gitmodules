@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/emmottlab/emmottlab.r-universe.dev
 	branch = HEAD
+[submodule "scpImaging"]
+	path = scpImaging
+	url = https://github.com/emmottlab/scpImaging
